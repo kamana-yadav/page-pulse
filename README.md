@@ -23,7 +23,7 @@ Page Pulse is a fast web tool that accepts any public URL, audits its frontend c
   "imagesMissingAlt": 0,
   "approximateWordCount": 42
 }
-'''
+```
 ## 🛠️ Design Decisions & Trade-offs
 
 1. **Lightweight HTML Parsing over Full Headless Browser**:
